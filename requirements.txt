@@ -1,0 +1,6 @@
+fastapi
+python-multipart
+google-generativeai
+python-dotenv
+hypercorn
+pydantic
